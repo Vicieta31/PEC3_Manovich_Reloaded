@@ -27,6 +27,8 @@ Quiero presentar dos casos de hibridacion modernos, con los cuales estoy famalia
 
 ## Caso 1: Nintendo Labo
 
+![Logo Nintendo Labo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Labo-logo-make-play.svg/2560px-Labo-logo-make-play.svg.png) 
+
 **Nintendo Labo** me parece un buen ejemplo de hibridación porque es un producto que tiene dos experiencias de uso. 
 Una primera experiencia donde montas los distintos cartones que vienen y, una vez montados, son una especie de **juguetes**, que pueden ser usados como decoración o como juguete. 
 Y una segunda experiencia donde, junto a estos objetos, usando la consola **Switch** y sus mandos, juegas distintos videojuegos en los cuales se interactúa de distintas formas a través de estos aparatos.
@@ -64,14 +66,41 @@ Para mí, **Nintendo Labo** ejemplifica perfectamente la hibridación de **Manov
 
 ## Caso 2: Nintendo Switch 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Logo Nintendo Labo](https://www.nintendo.com/eu/media/images/08_content_images/systems_5/nintendo_switch_3/not_approved_1/NSwitchTop.png) 
+
+**Nintendo Switch** es también un muy buen caso de hibridación, lo que es algo más complejo, porque más que hibridar dos medios distintos, lo que hibrida es la forma con la que se juega e interactúa con los videojuegos.
+Junta la experiencia clásica de jugar a una **videoconsola de obremesa** tradicional, con los mandos, una televisión, etc.
+Y la experiencia de juego de una **consola portátil**, en la que en cualquier momento puedes coger la consola y llevártela a jugar donde quieras.
+
+El funcionamiento de esta es a su vez sencillo y complejo. **Switch** es una consola de 2017 con un procesador lo suficientemente sencillo para que en modo portátil la batería no desapareciera al instante con unos gráficos sorprendentes para un **dispositivo portátil** de su año, pero también tenía que competir con sus “rivales” de sobremesa, con una potencia, resolución y una potencia de alimentación muy superiores.
+Esto lo ha logrado **Switch** gracias al dock, una base de plástico donde descansa la consola, que sirve a su vez de fuente de carga, de alimentación y permite hacer **overclock** a la consola para ir más allá de sus capacidades e intentar equipararse a la potencia de una consola doméstica.
+
+Según la visión de Manovich, la hibridación de **Nintendo Switch** no sería simplemente una hibridación **técnica**, que lo es; también lo sería **cultural y contextual**.
+No son dos consolas en una, es **una sola consola** que es multifacética y multifuncional. Es una plataforma única en la cual cambia dinámicamente: el rendimiento de la consola, la interfaz de la consola, la postura corporal del usuario e incluso el espacio social donde se juega.
+Convirtiéndola así en una experiencia del medio del videojuego **reconfigurable** según el gusto y necesidades del usuario, pero a su vez sigue siendo un único sistema.
+
+**Switch** tiene una interfaz modular con sus mandos únicos, los **Joy-Con**, unos mandos que permiten al usuario jugar donde y como quiera. Son unos mandos que se conectan a un soporte para usarse como un **control tradicional**, pero que cada una de sus mitades puede ser usada independientemente como un mando individual, así convirtiéndose fácilmente en una experiencia **multijugador**; estos mismos mandos son **acoplables** a la consola para ser usada en su faceta portátil.
+Es muy fácil cambiar de un entorno a otro mientras juegas con **Switch**; puedes estar jugando en tu casa y, en un momento dado, cambiar de modo e ir a jugar a la calle. Y en cualquiera de estas situaciones, puedes dividir el mando, compartirlo con un amigo o compañero y cambiar de una experiencia **single player** a una experiencia **multijugador**.
+
+Todos estos aspectos son potenciados por la reciente sucesora de la consola, **Switch 2**, la cual es muy continuista con su predecesora, pero mejor en todos los sentidos. Tiene más potencia, mejor resolución, lo cual genera una experiencia de juego comparable con las de otras plataformas actuales, sin dejar atrás todo lo que hacía brillar a la primera **Switch**. Todas las comodidades de la primera se trasladan a la segunda.
+
+Para concluir, **Nintendo Switch** es una consola que se adapta a tus necesidades y contexto, en vez de **tú** tener que adaptarte a las limitaciones de tu consola. Personalmente, **Switch** es una consola la cual he disfrutado un montón, que me ha permitido mucha **libertad** a la hora de disfrutar de su catálogo, tanto solo como en compañía. Y de la cual espero seguir disfrutando por muchos años con su sucesora.
+
+Considero a **Nintendo Switch** como un gran ejemplo de medio híbrido, ya que fusiona en una **misma plataforma** distintas formas de consumo de **videojuegos** y **entretenimiento** según las necesidades del usuario.
+
+
 
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013) **El Software toma el mando**. Barcelona: Editorial UOC.
+* Nintendo. (2018) Sitio oficial [Nintendo Labo](https://www.nintendo.com/es-es/games/oms/labo/index.html)
+* Wikipedia. (2025) [Nintendo Labo](https://es.wikipedia.org/wiki/Nintendo_Labo) 
 
+### Imagenes
 
+* Nintendo Labo. [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Labo-logo-make-play.svg/2560px-Labo-logo-make-play.svg.png)
+* Nintendo Switch. []()
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 

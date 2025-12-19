@@ -11,18 +11,16 @@ Asignatura: Cultura Digital
 
 Fecha: 19/12/2025
 
-![Cultura Digital](https://preview.redd.it/s7k19xh6il8d1.jpeg?width=640&crop=smart&auto=webp&s=cc88d8207d35504910cbe973d33a37618e5ff1ef) 
-
-
 
 ## Introduccion
 
-A diferencia de en la remediacion de un medio, en la hibridacion, lo que ocurre es la fusion de distintos medios y tipos de obras, para crear un nuevo medio o producto cultural, el cual no se puede clasificar a ninguno de los medios tradicionales.
+A diferencia de la remediación de un medio, en la hibridación lo que ocurre es la fusión de distintos medios y tipos de obras para crear un nuevo medio o producto cultural.
+Tal y como plantea Lev Manovich, esta hibridación no consiste en la simple coexistencia de medios, sino en su integración a nivel estructural e interactivo (Manovich, 2013).
 
-Quiero presentar dos casos de hibridacion modernos, con los cuales estoy famaliarizado. Estos dos casos son:
+Quiero presentar dos casos de hibridacion modernos, con los cuales estoy familiarizado. Estos dos casos son:
 - **Nintendo Labo.** Una serie de productos que funciona a su vez como un juguete fisico y una experiencia virtual como videojuego
   
-- **Nintendo Switch.** Una videoconsola que es, una consola de sobremesa que al mismo tiempo se puede utlizar como consola portatil.     
+- **Nintendo Switch.** Una videoconsola que es, una consola de sobremesa que al mismo tiempo se puede utilizar como consola portatil.     
 
 
 ## Caso 1: Nintendo Labo
@@ -46,6 +44,7 @@ Por lo que **Labo** no solo hibrida dos conceptos, lo hace de más.
 
 Según la visión de Manovich, **Labo** no sería simplemente un videojuego, pero tampoco sería un juguete a secas. Es una cosa más compleja. 
 El cartón no es un simple elemento decorativo extra, es una parte **funcional y extremadamente importante** de la misma interfaz y la interactividad. 
+En términos de Manovich, Nintendo Labo puede entenderse como un medio híbrido en el que las propiedades del juguete físico y del videojuego digital se combinan para generar una nueva forma de experiencia interactiva (Manovich, 2013).
 El software del videojuego está diseñado específicamente para ser controlado y usado por los **objetos físicos**, por lo que sin estos no podría ser utilizado. 
 Lo cual lo hace una experiencia completa, la cual solo es posible con la fusión e **hibridación** de estos medios y experiencias.
 
@@ -69,7 +68,7 @@ Para mí, **Nintendo Labo** ejemplifica perfectamente la hibridación de **Manov
 ![Logo Nintendo Labo](https://www.nintendo.com/eu/media/images/08_content_images/systems_5/nintendo_switch_3/not_approved_1/NSwitchTop.png) 
 
 **Nintendo Switch** es también un muy buen caso de hibridación, lo que es algo más complejo, porque más que hibridar dos medios distintos, lo que hibrida es la forma con la que se juega e interactúa con los videojuegos.
-Junta la experiencia clásica de jugar a una **videoconsola de obremesa** tradicional, con los mandos, una televisión, etc.
+Junta la experiencia clásica de jugar a una **videoconsola de sobremesa** tradicional, con los mandos, una televisión, etc.
 Y la experiencia de juego de una **consola portátil**, en la que en cualquier momento puedes coger la consola y llevártela a jugar donde quieras.
 
 El funcionamiento de esta es a su vez sencillo y complejo. **Switch** es una consola de 2017 con un procesador lo suficientemente sencillo para que en modo portátil la batería no desapareciera al instante con unos gráficos sorprendentes para un **dispositivo portátil** de su año, pero también tenía que competir con sus “rivales” de sobremesa, con una potencia, resolución y una potencia de alimentación muy superiores.
@@ -77,7 +76,9 @@ Esto lo ha logrado **Switch** gracias al dock, una base de plástico donde desca
 
 Según la visión de Manovich, la hibridación de **Nintendo Switch** no sería simplemente una hibridación **técnica**, que lo es; también lo sería **cultural y contextual**.
 No son dos consolas en una, es **una sola consola** que es multifacética y multifuncional. Es una plataforma única en la cual cambia dinámicamente: el rendimiento de la consola, la interfaz de la consola, la postura corporal del usuario e incluso el espacio social donde se juega.
+Tal como señala Manovich, los nuevos medios no solo transforman los dispositivos, sino también los contextos culturales y espaciales en los que se consumen (Manovich, 2013).
 Convirtiéndola así en una experiencia del medio del videojuego **reconfigurable** según el gusto y necesidades del usuario, pero a su vez sigue siendo un único sistema.
+Siguiendo a Manovich, esta capacidad de reconfiguración es propia de los nuevos medios híbridos, en los que el software permite modificar dinámicamente la forma de acceso y la experiencia del medio sin dejar de ser el mismo sistema (Manovich, 2013).
 
 **Switch** tiene una interfaz modular con sus mandos únicos, los **Joy-Con**, unos mandos que permiten al usuario jugar donde y como quiera. Son unos mandos que se conectan a un soporte para usarse como un **control tradicional**, pero que cada una de sus mitades puede ser usada independientemente como un mando individual, así convirtiéndose fácilmente en una experiencia **multijugador**; estos mismos mandos son **acoplables** a la consola para ser usada en su faceta portátil.
 Es muy fácil cambiar de un entorno a otro mientras juegas con **Switch**; puedes estar jugando en tu casa y, en un momento dado, cambiar de modo e ir a jugar a la calle. Y en cualquiera de estas situaciones, puedes dividir el mando, compartirlo con un amigo o compañero y cambiar de una experiencia **single player** a una experiencia **multijugador**.
@@ -89,18 +90,32 @@ Para concluir, **Nintendo Switch** es una consola que se adapta a tus necesidade
 Considero a **Nintendo Switch** como un gran ejemplo de medio híbrido, ya que fusiona en una **misma plataforma** distintas formas de consumo de **videojuegos** y **entretenimiento** según las necesidades del usuario.
 
 
+## Conclusiones
+
+Tras investigar estos dos casos, confirma la idea de Manovich de que los nuevos medios no sustituyen a los anteriores medios, simplemente los recombinan y adaptan según las nuevas necesidades e ideas que surgen con el tiempo y el avance de la tecnología.
+Nintendo Labo ejemplifica una hibridación centrada en la interfaz física y tangible, el uso de los materiales y la interactividad del usuario con el software.
+Nintendo Switch en cambio, hibrida el contexto y espacio de uso del hardware, dándole libertad completa al usuario para utilizarlo donde, cuando y como quiera.
+En cojunto, ambos casos refuerzan la idea de que Nintendo; no solo se encargan de desarollar nuevo hardware y software. Se dedican a innovar, creando experiencias interesantes, únicas e **híbridas**.
 
 
 ### Referencias y Bibliografía
 
+**Nintendo Labo**
 * Manovich, Lev. (2013) **El Software toma el mando**. Barcelona: Editorial UOC.
 * Nintendo. (2018) Sitio oficial [Nintendo Labo](https://www.nintendo.com/es-es/games/oms/labo/index.html)
-* Wikipedia. (2025) [Nintendo Labo](https://es.wikipedia.org/wiki/Nintendo_Labo) 
+* Wikipedia. (2025) [Nintendo Labo](https://es.wikipedia.org/wiki/Nintendo_Labo)
+
+
+**Nintendo Switch**
+* Nintendo. (2025) Sitio oficial [Nintendo Switch](https://www.nintendo.com/es-es/Hardware/Familia-Nintendo-Switch/Nintendo-Switch/Nintendo-Switch-1148779.html?srsltid=AfmBOoo3t5KsozSTo1gWm_ssp_x0beSwz-aQbsWPBroCRCWwZuXK4rD5)
+* Wikipedia. (2025) [Nintendo Switch](https://es.wikipedia.org/wiki/Nintendo_Switch)
+* Nintendo. (2025) Sitio oficial [Nintendo Switch 2](https://www.nintendo.com/es-es/Hardware/Nintendo-Switch-2/Nintendo-Switch-2-2785301.html?srsltid=AfmBOopbWFTq3cgyWufbdQa49lyBKpVD8ZCkucNB8Q6YfTblCdyqKWCM)
+* Wikipedia. (2025) [Nintendo Switch](https://es.wikipedia.org/wiki/Nintendo_Switch_2)
 
 ### Imagenes
 
 * Nintendo Labo. [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Labo-logo-make-play.svg/2560px-Labo-logo-make-play.svg.png)
-* Nintendo Switch. []()
+* Nintendo Switch. [Nintendo](https://www.nintendo.com/eu/media/images/08_content_images/systems_5/nintendo_switch_3/not_approved_1/NSwitchTop.png)
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
